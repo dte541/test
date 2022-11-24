@@ -5,3 +5,4 @@ hello,git!!
 fifth added!!
 5nd line added!!
 6nd line added!!!
+7nd line added!!
